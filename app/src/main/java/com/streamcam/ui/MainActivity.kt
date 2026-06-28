@@ -677,7 +677,7 @@ fun BroadcastContent(
                     Spacer(modifier = Modifier.height(16.dp))
 
                     Button(
-                        onClick = { uriHandler.openUri("https://your-demo-link.com") },
+                        onClick = { uriHandler.openUri("https://drive.google.com/file/d/1WSrp0WbR6oczmZ886-D5AUNLE6jLw76z/view?usp=sharing") },
                         modifier = Modifier.fillMaxWidth().height(48.dp),
                         colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF2B292D), contentColor = Color(0xFFE5E1E7)),
                         shape = RoundedCornerShape(12.dp)
@@ -695,7 +695,7 @@ fun BroadcastContent(
                     Spacer(modifier = Modifier.height(12.dp))
 
                     Button(
-                        onClick = { uriHandler.openUri("https://github.com/your-repo") },
+                        onClick = { uriHandler.openUri("https://github.com/akshit-singhh/StreamCam") },
                         modifier = Modifier.fillMaxWidth().height(48.dp),
                         colors = ButtonDefaults.buttonColors(containerColor = Color(0xFF2B292D), contentColor = Color(0xFFE5E1E7)),
                         shape = RoundedCornerShape(12.dp)
