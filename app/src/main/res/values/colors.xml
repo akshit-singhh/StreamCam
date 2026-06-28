@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="overlay_dark">#CC000000</color>
+    <color name="gray_400">#FF9E9E9E</color>
+    <color name="green_400">#FF66BB6A</color>
+    <color name="red_400">#FFEF5350</color>
+    <color name="amber_400">#FFFFA726</color>
+    <color name="blue_500">#FF2196F3</color>
+
+    <!-- Material theme colors -->
+    <color name="md_theme_primary">#FF2196F3</color>
+    <color name="md_theme_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_surface">#FF1A1A1A</color>
+    <color name="md_theme_onSurface">#FFFFFFFF</color>
+    <color name="md_theme_background">#FF000000</color>
+</resources>

@@ -1,0 +1,52 @@
+# Built artifacts
+bin/
+gen/
+out/
+build/
+
+# Local configuration files
+local.properties
+.idea/workspace.xml
+.idea/libraries/
+.idea/shelf/
+.idea/assetWizardSettings.xml
+.idea/modules.xml
+.idea/navEditor.xml
+captures/
+
+# External Native Build
+.externalNativeBuild/
+.cxx/
+obj/
+
+# IDE specific files
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Signing files
+*.jks
+*.keystore
+*.p12
+*.jceks
+google-services.json
+
+# Profiling and test results
+*.prof
+*.hprof
+*.pyc
+__pycache__/

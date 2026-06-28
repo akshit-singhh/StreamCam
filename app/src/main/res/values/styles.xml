@@ -1,0 +1,15 @@
+<resources>
+    <style name="ShapeAppearance.StreamCam.ToggleLeft" parent="">
+        <item name="cornerSizeTopLeft">9999dp</item>
+        <item name="cornerSizeBottomLeft">9999dp</item>
+        <item name="cornerSizeTopRight">0dp</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+    </style>
+
+    <style name="ShapeAppearance.StreamCam.ToggleRight" parent="">
+        <item name="cornerSizeTopLeft">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+        <item name="cornerSizeTopRight">9999dp</item>
+        <item name="cornerSizeBottomRight">9999dp</item>
+    </style>
+</resources>

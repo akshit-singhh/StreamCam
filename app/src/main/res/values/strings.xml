@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StreamCam</string>
+    <string-array name="resolutions">
+        <item>480p  (640×480)</item>
+        <item>720p  (1280×720)</item>
+        <item>1080p (1920×1080)</item>
+    </string-array>
+</resources>
